@@ -1,0 +1,44 @@
+body{
+  font-family: sans-serif;
+  background-color: lightblue;
+  font-size: 24px;
+}
+
+nav {
+    text-align: center;
+}
+
+a {
+    margin: 30px;
+}
+
+img {
+    width: 500px;
+    
+}
+
+h2 {
+    color: gray;
+    text-align: center;
+}
+
+p {
+    color: black;
+}
+
+h1 {
+    color: red;
+    text-align: center;
+}
+
+main {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+}
+
+footer img{
+    width: 100px;
+}
